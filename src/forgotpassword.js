@@ -1,4 +1,4 @@
 import { createApp } from "vue";
-import ForgotPassword from "./components/ForgotPassword.vue";
+import ForgotPassword from "./views/ForgotPassword.vue";
 
 createApp(ForgotPassword).mount("#app");

@@ -12,6 +12,7 @@ export default defineConfig({
         register: "register.html",
         forgotpassword: "forgotpassword.html",
         dashboard: "dashboard.html",
+        profile: "profile.html",
       },
     },
   },
